@@ -1,0 +1,7 @@
+C:\Emgu\emgucv-windows-universal 3.0.0.2157\bin\Example.CameraCapture.exe
+C:\Emgu\emgucv-windows-universal 3.0.0.2157\bin\Example.CameraCapture.pdb
+C:\Emgu\emgucv-windows-universal 3.0.0.2157\Emgu.CV.Example\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-universal 3.0.0.2157\Emgu.CV.Example\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+C:\Emgu\emgucv-windows-universal 3.0.0.2157\Emgu.CV.Example\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-universal 3.0.0.2157\Emgu.CV.Example\CameraCapture\obj\Debug\Example.CameraCapture.exe
+C:\Emgu\emgucv-windows-universal 3.0.0.2157\Emgu.CV.Example\CameraCapture\obj\Debug\Example.CameraCapture.pdb
